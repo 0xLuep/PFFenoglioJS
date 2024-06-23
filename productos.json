@@ -1,0 +1,254 @@
+[
+    {
+        "id": "1",
+        "descripcion": "Remera River Adidas",
+        "img": "https://media2.solodeportes.com.ar/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/r/e/remera-de-river-adidas-prematch-negra-100020hy0448001-1.jpg",
+        "tipo": "remera",
+        "precio": 50000
+    },
+    {
+        "id": "2",
+        "descripcion": "Buzo Adidas Negro",
+        "img": "https://ferreira.vtexassets.com/arquivos/ids/387803-800-auto?v=637756895012370000&width=800&height=auto&aspect=true",
+        "tipo": "buzo",
+        "precio": 28000
+    },
+    {
+        "id": "3",
+        "descripcion": "Remera Superior Original",
+        "img": "https://footprintsclothes.com.ar/wp-content/uploads/2021/03/remera-2.jpg",
+        "tipo": "remera",
+        "precio": 30000
+    },
+    {
+        "id": "4",
+        "descripcion": "Remera Indio Solari",
+        "img": "https://acdn.mitiendanube.com/stores/001/720/895/products/remera_indio_hombre1-c1d76d80c44acfbe6816350146411055-640-0.jpg",
+        "tipo": "remera",
+        "precio": 43000
+    },
+    {
+        "id": "5",
+        "descripcion": "Zapatillas Deportivas Proforce",
+        "img": "https://acdn.mitiendanube.com/stores/899/149/products/zapatilla-de-mujer-proforce-negra-venta-de-calzados-koruk-9dcb64d61a0190655b17141562289146-240-0.jpg",
+        "tipo": "zapatilla",
+        "precio": 35000
+    },
+    {
+        "id": "6",
+        "descripcion": "Remera Tupac",
+        "img": "https://acdn.mitiendanube.com/stores/003/334/784/products/b1ogj8t8zs-_ac_cla2140200081rbmt-6upl-png00214020000-00-02140-02000-0_uy1100_-png1-b84cc4dfa84474229416879004508720-1024-1024.jpeg",
+        "tipo": "remera",
+        "precio": 14000
+    },
+    {
+        "id": "7",
+        "descripcion": "Remera Lee",
+        "img": "https://acdn.mitiendanube.com/stores/001/288/343/products/remera-lee-azul1-207432276e1b31c4c516367505807145-640-0.png",
+        "tipo": "remera",
+        "precio": 22000
+    },
+    {
+        "id": "8",
+        "descripcion": "Remera Lisa Negra",
+        "img": "https://acdn.mitiendanube.com/stores/001/976/919/products/negra-21-b1c72bbcebc7feb9b816405376283015-1024-1024.jpg",
+        "tipo": "remera",
+        "precio": 15000
+    },
+    {
+        "id": "9",
+        "descripcion": "Zapatillas Nike con Tacón Kitten",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/zapatillas-nike-con-tacon-kitten-1-1674639010.jpg?crop=0.639xw:0.958xh;0.106xw,0&resize=640:*",
+        "tipo": "zapatilla",
+        "precio": 347000
+    },
+    {
+        "id": "10",
+        "descripcion": "Zapatillas de Seguridad con Punta de acero",
+        "img": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/da799d33d81895e66673542957ee3985.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+        "tipo": "zapatilla",
+        "precio": 60000
+    },
+    {
+        "id": "11",
+        "descripcion": "Remera Mars",
+        "img": "https://acdn.mitiendanube.com/stores/001/843/621/products/remera-mars-7c26d2c9fee69ac0e117038892666423-1024-1024.png",
+        "tipo": "remera",
+        "precio": 24000
+    },
+    {
+        "id": "12",
+        "descripcion": "Remera TomYJerry",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_798572-MLA72831571153_112023-O.webp",
+        "tipo": "remera",
+        "precio": 37000
+    },
+    {
+        "id": "13",
+        "descripcion": "Remera Premier Padel",
+        "img": "https://royalpadel.com.ar/latam/wp-content/uploads/2023/09/remera-negra-.jpg",
+        "tipo": "remera",
+        "precio": 19000
+    },
+    {
+        "id": "14",
+        "descripcion": "Remera Tradicional",
+        "img": "https://www.tradicional13.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/r/tradicional_remera_hombre_negro.jpg",
+        "tipo": "remera",
+        "precio": 16000
+    },
+    {
+        "id": "15",
+        "descripcion": "Buzo Moon",
+        "img": "https://acdn.mitiendanube.com/stores/001/843/621/products/buzo-moon-be5540baabff1e395c17038909738988-1024-1024.png",
+        "tipo": "buzo",
+        "precio": 52000
+    },
+    {
+        "id": "16",
+        "descripcion": "Buzo Under Armour Rojo",
+        "img": "https://media2.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/b/u/buzo-con-capucha-under-armour-training-sportstyle-terry-bordo-700021354539615-1.jpg",
+        "tipo": "buzo",
+        "precio": 41000
+    },
+    {
+        "id": "17",
+        "descripcion": "Buzo River Plate",
+        "img": "https://tiendariver.vteximg.com.br/arquivos/ids/170646-1000-1000/IU6092_FR_Torso_eCom.jpg?v=638355837515570000",
+        "tipo": "buzo",
+        "precio": 37000
+    },
+    {
+        "id": "18",
+        "descripcion": "Buzo Thrasher Negro",
+        "img": "https://www.indy.com.ar/cdn/shop/files/buzo-thrasher-flame-negro-indy-1.jpg?v=1701285660",
+        "tipo": "buzo",
+        "precio": 38000
+    },
+    {
+        "id": "19",
+        "descripcion": "Buzo Infinity Rojo",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_763753-MLA50699482367_072022-O.webp",
+        "tipo": "buzo",
+        "precio": 47000
+    },
+    {
+        "id": "20",
+        "descripcion": "Buzo Cleko Violeta",
+        "img": "https://marcopololp.com.ar/wp-content/uploads/2022/03/buzo-cleko-violeta-tascani-marco-polo-1.jpg",
+        "tipo": "buzo",
+        "precio": 33000
+    },
+    {
+        "id": "21",
+        "descripcion": "Pantalón Jogging Babucha Negro",
+        "img": "https://acdn.mitiendanube.com/stores/628/011/products/col-114-n-21-3a6506b15d56bd00fd16436522232180-640-0.jpg",
+        "tipo": "pantalon",
+        "precio": 36000
+    },
+    {
+        "id": "22",
+        "descripcion": "Pantalón Adidas Cargo Negro",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a2f0e5f081bd47348de1af42011edbf8_9366/Pantalon_Cargo_Premium_Essentials_Nylon_Negro_IC5316_21_model.jpg",
+        "tipo": "pantalon",
+        "precio": 66000
+    },
+    {
+        "id": "23",
+        "descripcion": "Pantalón Mujer Oversize Jogger",
+        "img": "https://acdn.mitiendanube.com/stores/001/332/272/products/whatsapp-image-2023-12-29-at-15-51-08-1-e212db25301af8252017038777436109-1024-1024.jpeg",
+        "tipo": "pantalon",
+        "precio": 24000
+    },
+    {
+        "id": "24",
+        "descripcion": "Pantalón de Vestir ROCHAS",
+        "img": "https://rochasshop.com.ar/wp-content/uploads/2022/11/Rochas_pantalon_vestir_blue_3.jpg",
+        "tipo": "pantalon",
+        "precio": 86000
+    },
+    {
+        "id": "25",
+        "descripcion": "Pantalón de Lino Beige",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_661613-MLA71454483215_092023-O.webp",
+        "tipo": "pantalon",
+        "precio": 38000
+    },
+    {
+        "id": "26",
+        "descripcion": "Pantalón Santorini Sastrero Verde",
+        "img": "https://acdn.mitiendanube.com/stores/605/097/products/img_1593-8b26fd275118bc178216995450934572-1024-1024.jpg",
+        "tipo": "pantalon",
+        "precio": 44000
+    },
+    {
+        "id": "27",
+        "descripcion": "Pantalón Jogging Hombre con Puño",
+        "img": "https://www.triestina.com.ar/wp-content/uploads/2022/05/jogging-gris.jpg",
+        "tipo": "pantalon",
+        "precio": 39000
+    },
+    {
+        "id": "28",
+        "descripcion": "Zapatillas LOVE Blancas",
+        "img": "https://acdn.mitiendanube.com/stores/001/467/692/products/img_62511-acf7f1bcce9e543bac16596220978258-640-0.jpg",
+        "tipo": "zapatilla",
+        "precio": 49000
+    },
+    {
+        "id": "29",
+        "descripcion": "Zapatillas Vans SK8",
+        "img": "https://acdn.mitiendanube.com/stores/001/258/405/products/img-34841-06a275e43af170db8716539524058316-1024-1024.jpg",
+        "tipo": "zapatilla",
+        "precio": 44000
+    },
+    {
+        "id": "30",
+        "descripcion": "Zapatillas Celles de Leona Rosas",
+        "img": "https://pasionaria.com.ar/cdn/shop/products/image_78da838e-4bc7-49b2-a613-19be8ad8deff.jpg?v=1644167778",
+        "tipo": "zapatilla",
+        "precio": 55000
+    },
+    {
+        "id": "31",
+        "descripcion": "Zapatillas Plataforma Erika Bym",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_871768-MLA51325104360_082022-O.webp",
+        "tipo": "zapatilla",
+        "precio": 66000
+    },
+    {
+        "id": "32",
+        "descripcion": "Zapatillas Gucci Blancas en Presagio",
+        "img": "https://presagio.com.ar/controladores/resize.php?carpeta=productos&width=810&height=810&file=1670863091639758f3efba1.jpg",
+        "tipo": "zapatilla",
+        "precio": 76000
+    },
+    {
+        "id": "33",
+        "descripcion": "Zapatillas de Skate Blancas-Negras",
+        "img": "https://i.pinimg.com/736x/25/85/23/258523179ac550a8fbdcb8a14031473a.jpg",
+        "tipo": "zapatilla",
+        "precio": 39000
+    },
+    {
+        "id": "34",
+        "descripcion": "Zapatillas Adams Total Black",
+        "img": "https://acdn.mitiendanube.com/stores/948/572/products/adams-total-black-311-1c2a387d7f70ed639616950389254357-1024-1024.jpg",
+        "tipo": "zapatilla",
+        "precio": 56000
+    },
+    {
+        "id": "35",
+        "descripcion": "Zapatillas Adidas Bad Bunny",
+        "img": "https://acdn.mitiendanube.com/stores/986/786/products/57ec0f92-3c34-4f5d-8841-d6a0a1db75e91-ee0a2bd1a16ff18a1816765648169085-240-0.jpeg",
+        "tipo": "zapatilla",
+        "precio": 135000
+    },
+    {
+        "id": "36",
+        "descripcion": "Zapatillas de Vestir Sneakers",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_938262-MLA69470135545_052023-O.webp",
+        "tipo": "zapatilla",
+        "precio": 36000
+    }
+]

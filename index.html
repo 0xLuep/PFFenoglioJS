@@ -3,18 +3,100 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto Final JS</title>
+    <title>Lifend</title>
+    <link rel="shortcut icon" href="./assets/LifendLogo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
     <header>
-        
+        <nav>
+            <ul class="nav-ul">
+                <li>
+                    <button><i class="bi bi-house-fill nav-icon"></i></button>
+                </li>
+                <li>
+                    <img src="./assets/LifendPNGLogo.png" alt="LifendPNGLogo">
+                </li>
+                <li>
+                    <button class="open-carr-butt"><i class="bi bi-cart-fill nav-icon"></i></button>
+                    <div class="nav-carr-num">0</div>
+                </li>
+            </ul>
+        </nav>
+        <div id="menu-carr-hidden" class="menu-carr">
+            <div class="top-carr">
+                <div>
+                    <h1>Carrito</h1>
+                    <div class="close-carr-butt"><i class="bi bi-x-lg"></i></div>
+                </div>
+                <div class="carr-row"></div>
+            </div>
+            <div class="mid-carr">
+                <h2 class="empity-carr-text">Tu carrito está vacío</h2>
+                <div id="none" class="carr-prod-displ">
+                    <div class="all-prod-carr-cont">
+                        <div class="prod-carr-cont">
+                            <div class="prod-carr">
+                                <div class="prod-img-carr-cont">
+                                    <img src="https://media2.solodeportes.com.ar/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/r/e/remera-de-river-adidas-prematch-negra-100020hy0448001-1.jpg" alt="">
+                                </div>
+                                <div class="prod-carr-all-spec">
+                                    <div class="prod-carr-upper-info">
+                                        <h3 class="prod-carr-name">Remera River Adidas</h3>
+                                        <button class="remove-prod-butt">Quitar</button>
+                                    </div>
+                                    <div class="prod-carr-bott-info">
+                                        <div class="cant-prod-carr-cont">
+                                            <button class="minus-button">-</button>
+                                            <h4 class="quant-prod-carr">11</h4>
+                                            <button class="plus-button">+</button>
+                                        </div>
+                                        <h3 class="price-prod-carr">$50000</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carr-row"></div>
+                        </div>
+                    </div>
+                    <div class="carr-row"></div>
+                    <div class="bott-carr">
+                        <span>
+                            <h3>Total</h3>
+                            <h4 class="price-total">$150000</h3>
+                        </span>
+                        <button class="buy-butt buy-butt-click-off"><p>Finalizar compra</p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
     <main>
-
+        <section>
+            <ul class="all-butt-cont">
+                <li class="butt-cont">
+                    <button id="todos" class="filter-butt selectFilter">Todos</button>
+                </li>
+                <li class="butt-cont">
+                    <button id="remera" class="filter-butt">Remeras</button>
+                </li>
+                <li class="butt-cont">
+                    <button id="buzo" class="filter-butt">Buzos</button>
+                </li>
+                <li class="butt-cont">
+                    <button id="pantalon" class="filter-butt">Pantalones</button>
+                </li>
+                <li class="butt-cont">
+                    <button id="zapatilla" class="filter-butt">Zapatillas</button>
+                </li>
+            </ul>
+            <div class="prod-cont">
+                
+            </div>
+        </section>
     </main>
-    <footer>
-
-    </footer>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./main.js"></script>
 </body>
 </html>
